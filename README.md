@@ -1,4 +1,4 @@
-# TryHackMe – Corridor (Methodology)
+# TryHackMe – Corridor (Walkthrough)
 
 ## Objective
 
